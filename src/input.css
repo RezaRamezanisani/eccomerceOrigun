@@ -1,0 +1,10 @@
+/*@tailwind base;*/
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    src: url("./public/asset/font/3/iranyekanwebbold.eot");
+    font-family: IRAN;
+}
+*{
+    font-family: IRAN;
+}
